@@ -1,0 +1,33 @@
+/* Styles go here */
+body {
+  
+    background-image:url("lagoon.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+  }
+  
+  textarea {
+    
+    background-color:#fff4b3;
+    width: 1250px;
+    height: 750px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 5px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff4b3;
+    font-size: 16px;
+    resize: none;
+    margin-left: 300px
+
+
+      
+  }
+  .counter {
+
+    margin-left:300px;
+  }
+  
+  
